@@ -42,5 +42,11 @@
         ],
         "description": "Viking sticker",
         "price": 34.99
+    },
+    {
+      "id": "5",
+      "title": "Car",
+      "image": "https://cdn.youpic.com/huge/941417_iug1kao8cfuej14a9sne15ctu7_2059602144",
+        "price": 3000000
     }
 ]
